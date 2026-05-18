@@ -1,4 +1,4 @@
-package org.univille;// Importa a classe Stack da biblioteca Java
+package org.univille;
 import java.util.Stack;
 
 public class PilhaMinMax {
